@@ -1,6 +1,7 @@
 # 🇰🇪 Kenya Progressive Tax Calculator
 
 A simple, user-friendly web application that helps individuals in Kenya calculate their monthly or annual income tax based on the **progressive tax system** defined by the Kenya Revenue Authority (KRA).
+![Screenshot](assets/image.png)
 
 ## 📚 About the Project
 
@@ -46,5 +47,5 @@ Additionally, personal relief (currently KSh 2,400/month) is deducted from the f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kenya-tax-calculator.git
+   git clone https://github.com/IsaacVic-Dark/Kenya-Tax-Calculator.git
    cd kenya-tax-calculator
