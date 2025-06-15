@@ -4,4 +4,4 @@ services:
     env: php
     plan: free
     buildCommand: ""  # No build step needed
-    startCommand: ""  # Render handles PHP automatically
+    startCommand: "php -S 0.0.0.0:10000"  # Render handles PHP automatically
