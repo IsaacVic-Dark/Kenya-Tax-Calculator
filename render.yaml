@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: kenya-tax-calculator
+    env: php
+    plan: free
+    buildCommand: ""  # No build step needed
+    startCommand: ""  # Render handles PHP automatically
