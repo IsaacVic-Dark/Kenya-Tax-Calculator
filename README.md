@@ -1,6 +1,10 @@
 # 🇰🇪 Kenya Progressive Tax Calculator
 
 A simple, user-friendly web application that helps individuals in Kenya calculate their monthly or annual income tax based on the **progressive tax system** defined by the Kenya Revenue Authority (KRA).
+
+## Live demo:
+https://kenya-tax-calculator.onrender.com
+
 ![Screenshot](assets/image.png)
 
 ## 📚 About the Project
